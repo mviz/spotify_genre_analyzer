@@ -1,4 +1,4 @@
-# Spotify Playlist Analyzer
+# Spotify Genre Analyzer
 
 I used the [Spotify API]() to download six playlists: two rock, two rap, two country. Then I applied logistic regression on each combination of pairs to determine the predictability of the differences between the genres.
 
