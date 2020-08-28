@@ -4,7 +4,7 @@ I used the [Spotify API]() to download six playlists: two rock, two rap, two cou
 
 Perhaps as expected, my classifiers had more success differentiating rap than it did between rock and country.
 
-Here's my full blog post about it.
+[Here's my full blog post about it.](https://medium.com/@mviz/classifying-musical-genres-with-simple-machine-learning-85b24c7fe564?sk=9a1a98e04f8651eb70a2414923dad627)
 
 ## Using the code / data
 
